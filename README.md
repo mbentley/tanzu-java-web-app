@@ -1,5 +1,7 @@
 # tanzu-java-web-app
 
+This is a fork of [sample-accelerators/tanzu-java-web-app](https://github.com/sample-accelerators/tanzu-java-web-app). It is old and out of date on purpose so it can be used with OpenRewrite and/or Tanzu Application Advisor demos.
+
 > **NOTE** This repo has been archived and the sample has been moved to:  
 > https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/tanzu-java-web-app
 
